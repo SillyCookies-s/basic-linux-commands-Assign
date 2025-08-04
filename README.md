@@ -26,6 +26,7 @@ This assignment demonstrates fundamental Linux command-line operations essential
 linux-commands-assignment/
 ├── 📝 README.md                    # Project documentation
 ├── 📜 commands_used.txt           # Complete command reference
+├── 📄 Assignment 1.docx           # Complete assignment report with screenshots
 ├── 📷 screenshots/                # Command execution screenshots
 │   ├── 1.png                    # File & directory operations
 │   ├── 2.1.png, 2.2.png         # File content viewing
