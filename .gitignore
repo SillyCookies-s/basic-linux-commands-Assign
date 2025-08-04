@@ -3,10 +3,6 @@
 passwd_output.txt
 *.log
 
-# Assignment documents
-Assignment 1.docx
-*.docx
-
 # Temporary files
 *.tmp
 *~
